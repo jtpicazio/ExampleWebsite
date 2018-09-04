@@ -1,0 +1,10 @@
+body{
+	text-align: center;
+	background: #003366;
+	color : white;
+}
+#calculatorForm{
+	background: black;
+	border-style: groove;
+	border-width: 20px;
+}
