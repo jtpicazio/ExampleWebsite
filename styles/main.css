@@ -4,7 +4,13 @@ body{
 	color : white;
 }
 #calculatorForm{
+	margin: auto;
 	background: black;
 	border-style: groove;
 	border-width: 20px;
+}
+#catImage{
+	float: left;
+	width: 100%;
+	height: auto;
 }
